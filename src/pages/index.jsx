@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <Container>
       <Link to="/contact">Contact</Link>
+      <Link to="/about">About</Link>
       <Header from="home" />
       <h1>Hello Gatsby!</h1>
       <p>What a world!</p>
